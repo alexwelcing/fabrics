@@ -25,9 +25,9 @@ export const App: React.FunctionComponent = () => {
     >
       <img src={logo} alt="logo" />
       <Text variant="xxLarge" styles={boldStyle}>
-        Welcome to Your UI Fabric App
+        2020 Project Docs
       </Text>
-      <Text variant="large">For a guide on how to customize this project, check out the UI Fabric documentation.</Text>
+      <Text variant="large">Focused on UI Fabric for Office/Sharepoint.</Text>
       <Text variant="large" styles={boldStyle}>
         Essential Links
       </Text>
